@@ -7,4 +7,5 @@
 **Todays Progress**: Finally,after a while I decided to give it a go to the freeCodeCamp. Time to get serius with this. 
 Today I am starting from basics and gonna chase Responsive Web Design Certification (300 hours). While I'm doing challenge will try i do projects all the way. 
 
-**Todays Topics**: Basic HTML and HTML5 , Basic CSS, Applied Visual Design, Applied Accessibility & Responsive Web Design Principles
+**Todays Topics**: Basic HTML and HTML5 , Basic CSS, Applied Visual Design, Applied Accessibility & Responsive Web Design Principles.
+**Link to work:** [Disappearing Headline](https://codepen.io/Srcko85/pen/bxaGqz) As i said started with basics . Simple and clean CSS3 animation & animation delay.

@@ -7,4 +7,4 @@
 **Todays Progress**: Finally,after a while I decided to give it a go to the freeCodeCamp. Time to get serius with this. 
 Today I am starting from basics and gonna chase Responsive Web Design Certification (300 hours). While I'm doing challenge will try i do projects all the way. 
 
-**Todays Topics**: Basic HTML and HTML5 , Basic CSS, Applied Visual Design, Applied Accessibility,
+**Todays Topics**: Basic HTML and HTML5 , Basic CSS, Applied Visual Design, Applied Accessibility & Responsive Web Design Principles

@@ -10,3 +10,5 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 **Todays Topics**: Basic HTML and HTML5 , Basic CSS, Applied Visual Design, Applied Accessibility & Responsive Web Design Principles.
 
 **Link to work:** [Disappearing Headline](https://codepen.io/Srcko85/pen/bxaGqz) As i said started with basics . Simple and clean CSS3 animation & animation delay.
+
+### DAY 01. / 09th September 2018. Sunday

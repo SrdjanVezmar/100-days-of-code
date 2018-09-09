@@ -18,3 +18,9 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 
 **Link to work:** [Build a Tribute Page](https://codepen.io/Srcko85/pen/XPVaBq) Simple & clean , 15mins Tribute Page.
 
+### DAY 02. / 10th September 2018. Monday
+**Todays Progress**: 
+
+**Todays Topics**: 
+
+**Link to work:** []() 

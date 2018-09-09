@@ -14,3 +14,4 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 ### DAY 01. / 09th September 2018. Sunday
 **Todays Progress**: Today will do last parts of the Front End Certification which includes CSS Grid & CSS FlexBox. And hopefully after that will finish at least first project. Let's roll!
 
+**Todays Topics**: CSS FlexBox & CSS Grid.

@@ -5,10 +5,12 @@
 
 ### DAY 00. / 08th September 2018. Saturday
 **Todays Progress**: Finally,after a while I decided to give it a go to the freeCodeCamp. Time to get serius with this. 
-Today I am starting from basics and gonna chase Responsive Web Design Certification (300 hours). While I'm doing challenge will try i do projects all the way. 
+Today I am starting from basics and gonna chase Responsive Web Design Certification (300 hours). While I'm doing challenge will try to do projects all the way. 
 
 **Todays Topics**: Basic HTML and HTML5 , Basic CSS, Applied Visual Design, Applied Accessibility & Responsive Web Design Principles.
 
 **Link to work:** [Disappearing Headline](https://codepen.io/Srcko85/pen/bxaGqz) As i said started with basics . Simple and clean CSS3 animation & animation delay.
 
 ### DAY 01. / 09th September 2018. Sunday
+**Todays Progress**: Today will do last parts of the Front End Certification which includes CSS Grid & CSS FlexBox. And hopefully after that will finish at least first project. Let's roll!
+

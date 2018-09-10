@@ -19,8 +19,8 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 **Link to work:** [Build a Tribute Page](https://codepen.io/Srcko85/pen/XPVaBq) Simple & clean , 15mins Tribute Page.
 
 ### DAY 02. / 10th September 2018. Monday
-**Todays Progress**: 
+**Todays Progress**: Early start for me today. As a night owl it is a wee weird to do some work this early. Will try and do all Responsive Design Projects from FreeCodeCamp today.Happy Monday
 
-**Todays Topics**: 
+**Todays Topics**: Build a Survey Form ( HTML5 & CSS3 )
 
 **Link to work:** []() 

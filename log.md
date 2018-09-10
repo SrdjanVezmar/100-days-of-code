@@ -21,6 +21,8 @@ Today I am starting from basics and gonna chase Responsive Web Design Certificat
 ### DAY 02. / 10th September 2018. Monday
 **Todays Progress**: Early start for me today. As a night owl it is a wee weird to do some work this early. Will try and do all Responsive Design Projects from FreeCodeCamp today.Happy Monday
 
-**Todays Topics**: Build a Survey Form ( HTML5 & CSS3 )
+**Todays Topics**: Build a Survey Form, Build Product Page 
 
 **Link to work:** [Build Survey Form](https://codepen.io/Srcko85/pen/VGygrv) 
+
+**Link to work:** [Build Product Page](https://codepen.io/Srcko85/pen/BOYaWP?editors=1100)
